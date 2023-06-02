@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tea_adviser</string>
+    <string name="find_tea">Find Tea</string>
+    <string name="brands">No tea selected</string>
+    <string-array name="tea_color">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
+</resources>
